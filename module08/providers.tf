@@ -9,7 +9,7 @@ terraform {
     resource_group_name  = "rg_backend_msk"
     storage_account_name = "sabkmskpdi"
     container_name       = "sc-backend-msk"
-    key                  = "ws-kvbkmsk"
+    key                  = "ws-module08"
   }
 }
 
